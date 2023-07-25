@@ -1,5 +1,5 @@
 # Sentry -> Telegram
-Webhook for Sentry which allow send alerts to Telegram
+Webhook for Sentry which allow send alerts to Telegram without plugin, so simple and ready to use
 
 #### How to use
 1. Clone repo
